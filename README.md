@@ -4,6 +4,7 @@ Welcome to eBrunoSan web page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
 - [Twitter](https://twitter.com/bruno_s_s)
+- [Wordpress](https://ebrunosan.wordpress.com/)
 
 ...Or you can contact me at:
 - [eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com)
