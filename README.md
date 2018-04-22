@@ -1,5 +1,9 @@
 ## Welcome to eBrunoSan
 
+My online profile:
+- [GitHub profile](https://github.com/ebrunosan)
+- [LinkedIn](www.linkedin.com/in/ebrunosan)
+
 You can use the [editor on GitHub](https://github.com/ebrunosan/ebrunosan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
