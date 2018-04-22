@@ -1,6 +1,6 @@
-## Bruno Santos Profile
+## Bruno Santos Projects
 
-Welcome to eBrunoSan web page. You can follow me at:
+Welcome to eBrunoSan.me page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
 - [Twitter](https://twitter.com/ebrunosan)
