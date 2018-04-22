@@ -9,9 +9,9 @@ You can follow me at:
 - [eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com)
 - [+1 (647) 906 9035](tel:+16479069035)
 
-Let me know if are nearby my address and want to drink a coffe. You would be welcome:
+Let me know if are nearby my address ([Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)) and want to drink a coffe. You would be welcome:
 {% raw %}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46035.969140650355!2d-79.3630395227668!3d43.850686703285206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d45a4625b9b9%3A0xe8b47ec07acebc29!2sMarkham%2C+ON+L3R!5e0!3m2!1sen!2sca!4v1524365473840" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9943.88184885533!2d-79.30593647377125!3d43.829390253274674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d40989c6970b%3A0x4e855308bd976e58!2sKennedy+Rd+%26+Steeles+Ave+E%2C+Markham%2C+ON!5e0!3m2!1sen!2sca!4v1524366163534" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 {% endraw %}
 
 You can use the [editor on GitHub](https://github.com/ebrunosan/ebrunosan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
