@@ -3,7 +3,7 @@
 Welcome to eBrunoSan web page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
-- [Twitter](https://twitter.com/bruno_s_s)
+- [Twitter](https://twitter.com/ebrunosan)
 - [Wordpress](https://ebrunosan.wordpress.com/)
 
 ...Or you can contact me at:
