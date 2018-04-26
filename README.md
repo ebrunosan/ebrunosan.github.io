@@ -2,6 +2,7 @@
 
 Welcome to eBrunoSan.me page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
+- [GitLab](https://gitlab.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
 - [Twitter](https://twitter.com/ebrunosan)
 - [Wordpress](https://ebrunosan.wordpress.com/)
