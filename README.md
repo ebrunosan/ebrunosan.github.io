@@ -6,6 +6,12 @@ Welcome to eBrunoSan.me page. You can follow me at:
 - [Twitter](https://twitter.com/ebrunosan)
 - [Wordpress](https://ebrunosan.wordpress.com/)
 
+... Some projects:
+- [Tower of Hanoi at CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
+- [Silly Store Generator at Thimble-Mozzila](https://thimbleprojects.org/ebrunosan/467686)
+- [Tower of Hanoi at JSFiddle](https://jsfiddle.net/ebrunosan/8hkxot4a/) ** not finished yet **
+- [Angular at Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
+
 ...Or you can contact me at:
 - [eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com)
 - [+1 (647) 906 9035](tel:+16479069035)
