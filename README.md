@@ -13,7 +13,7 @@ Welcome to eBrunoSan.me page. You can follow me at:
 - [Tower of Hanoi at JSFiddle](https://jsfiddle.net/ebrunosan/8hkxot4a/) ** not finished yet **
 - [Angular at Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
 - [Angular2 at StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
-- [Angular2 at Cloud9](https://angular2-bdasilvasantos00.c9users.io/)
+- [Angular2 at Cloud9](https://angular2-bdasilvasantos00.c9users.io/) ** Unfortunately, the container has to be started upfront **
 - [PHP with Bootstrap](http://web.ebrunosan.epizy.com)
 - [Facebook Auth at Wordpress](http://courseweb.langara.bc.ca/brunosantos/)
 
