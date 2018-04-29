@@ -8,8 +8,7 @@ Welcome to eBrunoSan.me page. You can follow me at:
 - [Wordpress](https://ebrunosan.wordpress.com/)
 
 ... Some projects:
-- Tower of Hanoi at [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX) or [JSFiddle]([Tower of Hanoi at JSFiddle](https://jsfiddle.net/ebrunosan/8hkxot4a/)
-)
+- Tower of Hanoi at [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX) or [JSFiddle](https://jsfiddle.net/ebrunosan/8hkxot4a/)
 - [Silly Store Generator at Thimble-Mozzila](https://thimbleprojects.org/ebrunosan/467686)
 - [Angular at Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
 - [Angular2 at StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
