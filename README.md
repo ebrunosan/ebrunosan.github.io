@@ -17,10 +17,9 @@
 - [Angular2 at Cloud9](https://angular2-bdasilvasantos00.c9users.io/) ** Unfortunately, the container has to be started upfront **
 - [PHP with Bootstrap](http://web.ebrunosan.epizy.com)
 
-...Or you can contact me at:
+* * *
 
-[<i class="fas fa-envelope fa-lg"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com)
-
+[<i class="fas fa-envelope fa-lg"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
 [<i class="fas fa-phone fa-lg"></i> +1 (647) 906 9035](tel:+16479069035)
 
-Let me know if are nearby my address ([<i class="fas fa-map-marker-alt"></i> Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)), so that we can drink a coffe sometime.
+[<i class="fas fa-map-marker-alt"></i> Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)
