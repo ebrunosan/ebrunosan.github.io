@@ -1,5 +1,3 @@
-## Bruno Santos Projects
-
 Welcome to eBrunoSan.me page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
 - [GitLab](https://gitlab.com/ebrunosan)
