@@ -1,4 +1,8 @@
-Welcome to eBrunoSan.me page. You can follow me at:
+<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+
+<i class="fab fa-github"></i>
+
+# Welcome to eBrunoSan.me page. You can follow me at:
 - [GitHub](https://github.com/ebrunosan)
 - [GitLab](https://gitlab.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
