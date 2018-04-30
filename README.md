@@ -1,9 +1,14 @@
 <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
-<i class="fab fa-github fa-5x"></i>
-<i class="fab fa-gitlab fa-5x"></i>
 
 # Welcome to eBrunoSan.me page. You can follow me at:
+[<i class="fab fa-github fa-3x"></i>](https://github.com/ebrunosan)
+<i class="fab fa-gitlab fa-3x"></i>
+<i class="fab fa-linkedin fa-3x"></i>
+<i class="fab fa-linkedin fa-3x"></i>
+<i class="fab fa-twitter fa-3x"></i>
+<i class="fab fa-wordpress fa-3x"></i>
+
 - [GitHub](https://github.com/ebrunosan)
 - [GitLab](https://gitlab.com/ebrunosan)
 - [LinkedIn](https://www.linkedin.com/in/ebrunosan)
