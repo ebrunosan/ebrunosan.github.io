@@ -14,7 +14,6 @@ Welcome to eBrunoSan.me page. You can follow me at:
 - [Angular2 at StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
 - [Angular2 at Cloud9](https://angular2-bdasilvasantos00.c9users.io/) ** Unfortunately, the container has to be started upfront **
 - [PHP with Bootstrap](http://web.ebrunosan.epizy.com)
-- [Facebook Auth at Wordpress](http://courseweb.langara.bc.ca/brunosantos/)
 
 ...Or you can contact me at:
 - [eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com)
