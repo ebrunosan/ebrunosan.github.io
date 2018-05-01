@@ -5,10 +5,10 @@
 
 **Description** | **Technology** | **Code** | **Runnable**
 ------------|------------|------|---------
-Tower of Hanoi Game | Jascript | Github | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
+Tower of Hanoi Game | Jascript | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
 Angular xxx | Angular | Github | [Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
 Angular2 yyy | Angular2 | Github | [StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
-Dental clinic Agenda | PHP and Bootstrap | Github | [Page](http://web.ebrunosan.epizy.com)
+Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan/dentalclinic) | [Page](http://web.ebrunosan.epizy.com)
 
 [<i class="fas fa-envelope" style="color:gray"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
 [<i class="fas fa-phone" style="color:gray"></i> +1 (647) 906 9035](tel:+16479069035) |
