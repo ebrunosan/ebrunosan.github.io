@@ -1,15 +1,14 @@
 <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
 
-# Welcome to eBrunoSan.me
+## Some projects
 
-### Some projects:
-- Tower of Hanoi at [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX) or [JSFiddle](https://jsfiddle.net/ebrunosan/8hkxot4a/)
-- [Silly Store Generator at Thimble-Mozzila](https://thimbleprojects.org/ebrunosan/467686)
-- [Angular at Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
-- [Angular2 at StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
-- [Angular2 at Cloud9](https://angular2-bdasilvasantos00.c9users.io/) ** Unfortunately, the container has to be started upfront **
-- [PHP with Bootstrap](http://web.ebrunosan.epizy.com)
+Description | Technology | Code | Runnable
+------------|------------|------|---------
+Tower of Hanoi Game | Jascript | Github | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
+Angular xxx | Angular | Github | [Plunker](https://embed.plnkr.co/uVy4H64hZBmzucoHjXM3/)
+Angular2 yyy | Angular2 | Github | [StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
+Dental clinic Agenda | PHP and Bootstrap | Github | [Page](http://web.ebrunosan.epizy.com)
 
 * * *
 [<i class="fas fa-envelope" style="color:gray"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
