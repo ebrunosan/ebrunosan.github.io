@@ -1,22 +1,5 @@
 <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 
-<style>
-.fab {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  background: gray;
-  color: black
-}
-
-.fab:hover {
-    opacity: 0.7;
-}
-</style>
-
 
 # Welcome to eBrunoSan.me
 
