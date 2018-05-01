@@ -16,8 +16,8 @@
 [<i class="fas fa-phone fa-lg" style="color:black"></i> +1 (647) 906 9035](tel:+16479069035) | 
 [<i class="fas fa-map-marker-alt" style="color:black"></i> Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)
 
-<a class="fab fa-github fa-2x" href="https://github.com/ebrunosan">x</a>
-<a class="fab fa-gitlab fa-2x" href="https://gitlab.com/ebrunosan">y</a>
+[<i class="fab fa-github fa-2x" style="color:black"></i>](https://github.com/ebrunosan)
+[<i class="fab fa-gitlab fa-2x" style="color:black"></i>](https://gitlab.com/ebrunosan)
 [<i class="fab fa-linkedin fa-2x"></i>](https://www.linkedin.com/in/ebrunosan)
 [<i class="fab fa-twitter fa-2x"></i>](https://twitter.com/ebrunosan)
 [<i class="fab fa-wordpress fa-2x"></i>](https://ebrunosan.wordpress.com/)
