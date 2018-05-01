@@ -18,7 +18,7 @@
 
 FOLLOW: 
 [<i class="fab fa-github" style="color:gray"></i>Github](https://github.com/ebrunosan)
-[<i class="fab fa-gitlab" style="color:gray"</i>Gitlab>](https://gitlab.com/ebrunosan)
+[<i class="fab fa-gitlab" style="color:gray"></i>Gitlab>](https://gitlab.com/ebrunosan)
 [<i class="fab fa-linkedin" style="color:gray"></i>Linkedin](https://www.linkedin.com/in/ebrunosan)
 [<i class="fab fa-twitter" style="color:gray"></i>Twitter](https://twitter.com/ebrunosan)
 [<i class="fab fa-wordpress" style="color:gray"></i>Wordpress](https://ebrunosan.wordpress.com/)
