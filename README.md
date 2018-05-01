@@ -10,8 +10,6 @@ Angular xxx | Angular | Github | [Plunker](https://embed.plnkr.co/uVy4H64hZBmzuc
 Angular2 yyy | Angular2 | Github | [StackBlitz](https://stackblitz.com/edit/angular-qijtbn)
 Dental clinic Agenda | PHP and Bootstrap | Github | [Page](http://web.ebrunosan.epizy.com)
 
-* * *
-
 [<i class="fas fa-envelope" style="color:gray"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
 [<i class="fas fa-phone" style="color:gray"></i> +1 (647) 906 9035](tel:+16479069035) |
 [<i class="fas fa-map-marker-alt" style="color:gray"></i> Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)
