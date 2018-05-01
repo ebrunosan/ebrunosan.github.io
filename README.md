@@ -17,8 +17,8 @@
 [<i class="fas fa-map-marker-alt" style="color:gray"></i> Markham, ON, Canada](https://goo.gl/maps/fSSwMpRAKRx)
 
 FOLLOW: 
-[<i class="fab fa-github" style="color:gray"></i> GITHUB](https://github.com/ebrunosan)
-[<i class="fab fa-gitlab" style="color:gray"</i> GITLAB>](https://gitlab.com/ebrunosan)
-[<i class="fab fa-linkedin" style="color:gray"></i> LINKEDIN](https://www.linkedin.com/in/ebrunosan)
-[<i class="fab fa-twitter" style="color:gray"></i> TWITTER](https://twitter.com/ebrunosan)
-[<i class="fab fa-wordpress" style="color:gray"></i> WORDPRESS](https://ebrunosan.wordpress.com/)
+[<i class="fab fa-github" style="color:gray"></i>Github](https://github.com/ebrunosan)
+[<i class="fab fa-gitlab" style="color:gray"</i>Gitlab>](https://gitlab.com/ebrunosan)
+[<i class="fab fa-linkedin" style="color:gray"></i>Linkedin](https://www.linkedin.com/in/ebrunosan)
+[<i class="fab fa-twitter" style="color:gray"></i>Twitter](https://twitter.com/ebrunosan)
+[<i class="fab fa-wordpress" style="color:gray"></i>Wordpress](https://ebrunosan.wordpress.com/)
