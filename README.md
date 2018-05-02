@@ -11,7 +11,7 @@ Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan
 Contact me: 
 [<i class="fas fa-envelope"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
 [<i class="fas fa-phone"></i> +1 (647) 906 9035](callto:+16479069035) |
-[<i class="fab fa-skype"></i> bruno621_4](skype:chat%3Abruno621_4)
+[<i class="fab fa-skype"></i> Bruno621_4](skype:bruno621_4?chat)
 
 Follow me:
 [<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
