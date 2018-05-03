@@ -14,8 +14,8 @@ Contact me:
 [<i class="fab fa-skype"></i> eBrunoSan](skype:live:eBrunoSan?chat)
 
 Follow me:
-[<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
-[<i class="fab fa-gitlab"></i> Gitlab](https://gitlab.com/ebrunosan) |
 [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ebrunosan) |
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ebrunosan) |
-[<i class="fab fa-wordpress"></i> Wordpress](https://ebrunosan.wordpress.com/)
+[<i class="fab fa-wordpress"></i> Wordpress](https://ebrunosan.wordpress.com/) |
+[<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
+[<i class="fab fa-gitlab"></i> Gitlab](https://gitlab.com/ebrunosan)
