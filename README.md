@@ -18,4 +18,4 @@ Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan
 [<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
 [<i class="fab fa-gitlab"></i> Gitlab](https://gitlab.com/ebrunosan) |
 [<i class="fab fa-codepen"></i> Codepen](https://codepen.io/ebrunosan) |
-[https://www.codewars.com/users/ebrunosan/badges/micro]90(https://www.codewars.com/users/ebrunosan)
+[https://www.codewars.com/users/ebrunosan/badges/micro](https://www.codewars.com/users/ebrunosan)
