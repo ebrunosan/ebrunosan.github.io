@@ -1,6 +1,10 @@
 
 ## Some projects
 
+<--Collected image definitions-->
+[codewars]: https://www.codewars.com/users/ebrunosan/badges/micro "Codewars" 
+...
+
 **Description** | **Technology** | **Code** | **Runnable**
 ------------|------------|------|---------
 Tower of Hanoi Game | Jascript | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
@@ -18,4 +22,5 @@ Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan
 [<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
 [<i class="fab fa-gitlab"></i> Gitlab](https://gitlab.com/ebrunosan) |
 [<i class="fab fa-codepen"></i> Codepen](https://codepen.io/ebrunosan) |
-![Codewars](https://www.codewars.com/users/ebrunosan/badges/micro)
+<!--Using an image reference-->
+![Codewars img][codewars](https://www.codewars.com/users/ebrunosan/badges/micro)
