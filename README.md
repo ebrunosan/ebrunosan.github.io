@@ -4,7 +4,7 @@
 **Description** | **Technology** | **Code** | **Runnable**
 ------------|------------|------|---------
 Tower of Hanoi Game | Jascript | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
-Social Currency exchange | Firebase API | Github | [Github](https://www.ebrunosan.me/currencyexchange)
+Social Currency exchange | Firebase API | [Github](https://github.com/ebrunosan/currencyexchange) | [Page](https://www.ebrunosan.me/currencyexchange)
 Tour of Heroes | Angular2 | Github | [StackBlitz](https://stackblitz.com/edit/angular-ebrunosan-toh)
 Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan/dentalclinic) | [Page](http://web.ebrunosan.epizy.com)
 
