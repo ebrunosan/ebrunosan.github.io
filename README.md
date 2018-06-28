@@ -1,5 +1,5 @@
 
-## Some projects
+## Most recent projects
 
 **Description** | **Technology** | **Code** | **Runnable**
 ------------|------------|------|---------
@@ -14,7 +14,7 @@ Dental clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan
 
 [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ebrunosan) |
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ebrunosan) |
-[<i class="fab fa-wordpress"></i> Wordpress](https://ebrunosan.wordpress.com/) |
+[<i class="fab fa-stack-overflow"></i> Stackoverflow](https://stackoverflow.com/story/ebrunosan) |
 [<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
 [<i class="fab fa-codepen"></i> Codepen](https://codepen.io/ebrunosan)
 
