@@ -14,8 +14,8 @@ Dental Clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan
 
 [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ebrunosan) |
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/ebrunosan) |
-[<i class="fab fa-stack-overflow"></i> Stackoverflow](https://stackoverflow.com/story/ebrunosan) |
-[<i class="fab fa-github"></i> Github](https://github.com/ebrunosan) |
+[<i class="fab fa-stack-overflow"></i> StackOverflow](https://stackoverflow.com/story/ebrunosan) |
+[<i class="fab fa-github"></i> GitHub](https://github.com/ebrunosan) |
 [<i class="fab fa-wordpress"></i> WordPress](https://ebrunosan.wordpress.com)
 
 [![Codewars](https://www.codewars.com/users/ebrunosan/badges/large)](https://www.codewars.com/users/ebrunosan)
