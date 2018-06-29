@@ -1,5 +1,5 @@
 
-## Most recent projects
+## Recent projects
 
 **Description** | **Technology** | **Code** | **Play**
 ------------|------------|------|---------
