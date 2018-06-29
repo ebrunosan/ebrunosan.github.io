@@ -3,10 +3,10 @@
 
 **Description** | **Technology** | **Code** | **Play**
 ------------|------------|------|---------
-Tower of Hanoi Game | Javascript | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
-Social Currency Exchange | Firebase API | [Github](https://github.com/ebrunosan/currencyexchange) | [Link](https://www.ebrunosan.me/currencyexchange)
+Tower of Hanoi Game | Javascript, Canvas | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
+Social Currency Exchange | Firebase Auth, Google MDL | [Github](https://github.com/ebrunosan/currencyexchange) | [Link](https://www.ebrunosan.me/currencyexchange)
 Tour of Heroes | Angular2 | Github | [StackBlitz](https://stackblitz.com/edit/angular-ebrunosan-toh)
-Dental Clinic Agenda | PHP and Bootstrap | [Github](https://github.com/ebrunosan/dentalclinic) | [Link](http://web.ebrunosan.epizy.com)
+Dental Clinic Agenda | PHP, MySql, Bootstrap | [Github](https://github.com/ebrunosan/dentalclinic) | [Link](http://web.ebrunosan.epizy.com)
 
 [<i class="fas fa-envelope fa-lg"></i> ebrunosan@gmail.com](mailto:ebrunosan@gmail.com) | 
 [<i class="fab fa-whatsapp fa-lg"></i> +1 647 906 9035](tel:+16479069035) |
