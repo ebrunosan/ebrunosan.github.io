@@ -11,7 +11,6 @@ Tour of Heroes | Angular2 | -- | [StackBlitz](https://stackblitz.com/edit/angula
 Tower of Hanoi Game | Javascript, Canvas | [Github](https://github.com/ebrunosan/TowerOfHanoi) | [CopePen](https://codepen.io/ebrunosan/pen/NMRoZX)
 
 [<i class="fas fa-envelope fa-lg"></i> eBrunoSan@gmail.com](mailto:ebrunosan@gmail.com) | 
-[<i class="fab fa-whatsapp fa-lg"></i> +1 (647) 906 9035](tel:+16479069035) |
 [<i class="fab fa-skype fa-lg"></i> eBrunoSan](skype:live:eBrunoSan?chat)
 
 [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/in/ebrunosan) |
